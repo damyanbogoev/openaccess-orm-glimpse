@@ -19,6 +19,7 @@
     <language>en-US</language>
     <dependencies>
       <dependency id="AutoMapper" version="3.0.0" />
+      <dependency id="Glimpse" version="1.6.1" />
     </dependencies>
   </metadata>
 </package>
