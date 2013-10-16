@@ -7,7 +7,7 @@
     <version>1.0.0.0</version>
     <authors>Damyan Bogoev</authors>
     <owners>Damyan Bogoev</owners>
-    <projectUrl>http://github.com/damyanbogoev/openaccess-orm-demo</projectUrl>
+    <projectUrl>https://github.com/damyanbogoev/openaccess-orm-glimpse</projectUrl>
     <iconUrl>http://www.telerik.com/images/NuGet_Telerik_OpenAccess_ORM.png</iconUrl>
     <description>
       The OpenAccess.Glimpse NuGet package provides OpenAccess ORM profiling.
